@@ -1,5 +1,5 @@
 {
-    "name": "mercadopago/module-core",
+    "name": "belchiorneto/module-core",
     "description": "Mercado Pago payment method module",
     "require": {
         "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.26"
